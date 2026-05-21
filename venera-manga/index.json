@@ -2,7 +2,7 @@
   {
     "name": "Ren 的私有漫画库",
     "filename": "ren_alist_source.js",
-    "url": "https://raw.githubusercontent.com/你的GitHub用户名/仓库名/main/ren_alist_source.js",
+    "url": "https://cdn.jsdelivr.net/gh/xxlailai/DockerTarBuilder@venera-test/venera-manga/ren_alist_source.js",
     "version": "1.0.0",
     "description": "基于 Alist 挂载的高级独立 UI 漫画源"
   }
